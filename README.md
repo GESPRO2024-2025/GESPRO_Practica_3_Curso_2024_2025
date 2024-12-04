@@ -12,3 +12,10 @@
 <img width="1512" alt="11" src="https://github.com/user-attachments/assets/61ca38f0-1094-4f56-8e88-7e3dd9047dc8">
 <img width="1512" alt="12" src="https://github.com/user-attachments/assets/b0a71304-5f39-4615-9c24-58abc5790dca">
 <img width="1512" alt="13" src="https://github.com/user-attachments/assets/96c8e66c-83b6-4c55-8e98-c8703a73e778">
+
+# Situación de conflicto editando ambos las mismas líneas del fichero.
+
+![1r](https://github.com/user-attachments/assets/57c85a6c-9958-4cb0-9a5a-b12c99d1cf2e)
+![2r](https://github.com/user-attachments/assets/dde793c1-eda4-4509-b4a7-b0f31d702e2f)
+![3r](https://github.com/user-attachments/assets/5ab08e8e-374e-4794-99d5-ec94b984e5fe)
+![4r](https://github.com/user-attachments/assets/817c16f8-1101-4fed-9be6-9ff1237dd129)
