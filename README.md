@@ -14,9 +14,14 @@
 
 # Situación de conflicto editando ambos las mismas líneas del fichero.
 
+Intento hacer un push despues de haber actualizado el readme para poner mi nombre, el cual lo ha modificado mi compañero a la vez.
+Por lo que me sale que hay un conflicto al intentar hacer el push.
 ![1r](https://github.com/user-attachments/assets/57c85a6c-9958-4cb0-9a5a-b12c99d1cf2e)
+Pincho en el boton README.md que tiene una señal de advertencia, para ver que es lo que pasa.
 ![2r](https://github.com/user-attachments/assets/dde793c1-eda4-4509-b4a7-b0f31d702e2f)
+Puedo ver que el conflicto que es intentaba modificar el readme a la vez que mi compañero, por lo que selecciono los dos commit y se me modifica el output:
 ![3r](https://github.com/user-attachments/assets/5ab08e8e-374e-4794-99d5-ec94b984e5fe)
+Luego doy a save changes, y hago el commit y ya no habria conflicto
 ![4r](https://github.com/user-attachments/assets/817c16f8-1101-4fed-9be6-9ff1237dd129)
 
 # Primer commit
