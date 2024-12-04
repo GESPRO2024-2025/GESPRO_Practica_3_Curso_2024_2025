@@ -1,5 +1,4 @@
 # Pasos de creación de un commit
-<img width="1512" alt="1" src="https://github.com/user-attachments/assets/8dd3c83c-853e-4afd-96e2-d152ab4e14a0">
 <img width="1512" alt="2" src="https://github.com/user-attachments/assets/adeab0df-d13b-4cbc-b231-4b44fdd0e1f9">
 <img width="1512" alt="3" src="https://github.com/user-attachments/assets/7f353cbb-8078-45b2-8d6e-0845d7d99cd3">
 <img width="1512" alt="4" src="https://github.com/user-attachments/assets/ee2067c9-2aa4-44e2-8973-3002ddd700ee">
@@ -19,3 +18,9 @@
 ![2r](https://github.com/user-attachments/assets/dde793c1-eda4-4509-b4a7-b0f31d702e2f)
 ![3r](https://github.com/user-attachments/assets/5ab08e8e-374e-4794-99d5-ec94b984e5fe)
 ![4r](https://github.com/user-attachments/assets/817c16f8-1101-4fed-9be6-9ff1237dd129)
+
+# Primer commit
+<img width="1512" alt="1" src="https://github.com/user-attachments/assets/8dd3c83c-853e-4afd-96e2-d152ab4e14a0">
+
+# Ultimo commit
+![ultimoCommit](https://github.com/user-attachments/assets/b665f4c4-b5f7-42ed-860b-32bc1c0edbe8)
