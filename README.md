@@ -29,3 +29,19 @@ Luego doy a save changes, y hago el commit y ya no habria conflicto
 
 # Ultimo commit
 ![ultimoCommit](https://github.com/user-attachments/assets/b665f4c4-b5f7-42ed-860b-32bc1c0edbe8)
+
+# Información del Proyecto
+- Obtenida "Insights → Pulse"
+![1foto](https://github.com/user-attachments/assets/3c034aa6-e162-4617-97c6-9e640012229f)
+![2foto](https://github.com/user-attachments/assets/08805705-c1e2-486c-8d4f-12cab65079b4)
+![3foto](https://github.com/user-attachments/assets/1486dffb-66c1-4296-bfd2-94eb8bc3779b)
+
+- Obtenida "Insights → Code frequency"
+  ![4foto](https://github.com/user-attachments/assets/81b9eb4f-0e92-404e-84da-7c035c450fdd)
+
+# Relación con los PRQs realizadas cerradas
+![5foto](https://github.com/user-attachments/assets/2564c042-e6fc-40d5-acba-eccbc60974fe)
+
+
+
+
