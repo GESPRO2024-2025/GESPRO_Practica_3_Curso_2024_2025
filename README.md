@@ -1,3 +1,7 @@
+Alejandro Diez Bermejo
+Sergio Miguel Benito
+Jorge Ortega Izquierdo
+
 # Pasos de creación de un commit
 Primer nos vamos al repositorio de GO BEES y establecemos el punto del proyecto en el commit que queramos, en este caso Fix Weather Data Summary Bug.
 <img width="1512" alt="2" src="https://github.com/user-attachments/assets/adeab0df-d13b-4cbc-b231-4b44fdd0e1f9">
